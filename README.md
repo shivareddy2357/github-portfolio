@@ -43,7 +43,21 @@
   CGPA: 6.8  
 
 - <b>Intermediate</b>, Narayana Junior College (2017 – 2019)  
-  Percentage: 94%  
+  Percentage: 94%
+  <h2>🛠 Skills & Tools</h2>
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-darkgreen?style=for-the-badge&logo=springboot)
+![REST API](https://img.shields.io/badge/REST%20APIs-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-purple?style=for-the-badge&logo=tensorflow)
+![Power BI](https://img.shields.io/badge/Power%20BI-darkyellow?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-navy?style=for-the-badge&logo=tableau)
+![MySQL](https://img.shields.io/badge/MySQL-teal?style=for-the-badge&logo=mysql)
+![DBMS](https://img.shields.io/badge/DBMS-grey?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 ---
 
@@ -75,17 +89,4 @@
 </a>**
 
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
